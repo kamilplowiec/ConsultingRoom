@@ -1,5 +1,7 @@
 # Gabinet lekarski
 
+![Gabinet lekarski](https://kamilplowiec.tk/img/portfolio/csdesktop4.jpg)
+
 1. Rejestracjê osób (lekarz, zwyk³a osoba, sekretarka)
 2. Rejestracje wizyt zarejestrowanych osób
 3. S³ownik Lekarz, osoba, pracownik itp
